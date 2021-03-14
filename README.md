@@ -1,2 +1,2 @@
 # LeetCode Solutions
-My own solutions to some of the questions on Leetcode written in Java.
+My own Java solutions to some LeetCode questions.
